@@ -131,5 +131,5 @@ python scripts/predict.py --img_path demo_images/000000003_light_unclutter.png
 
 ## ❤️ Acknowledgment
 
-This project was built as part of HackwithBeyond — Space Station Safety Hackathon 2025, using synthetic data from Duality AI Falcon Simulator.
+This project was built as part of HackBeyond — Space Station Hackathon 2025, using synthetic data from Duality AI Falcon Simulator.
 
