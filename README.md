@@ -125,7 +125,7 @@ python scripts/predict.py --img_path demo_images/000000003_light_unclutter.png
 | ----------------------- | ------------------------- |
 | GitHub Repo             | ✔ Done                    |
 | Streamlit App           | ✔ Working                 |
-| mAP Score               | ✔ Add yours in final form |
+| mAP Score               | ✔ 58.9%mAP                |
 | Bonus Challenge         | ✔ Completed               |
 | All team files uploaded | ✔ Included                |
 
