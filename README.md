@@ -15,7 +15,7 @@ Using YOLOv8, custom-trained on synthetic datasets generated via **Duality AI’
 * 🧪 Nitrogen Tanks
 * ⚡ Safety Switch Panels
 
-The system includes a minimal, clean Streamlit interface** for real-time testing on any image.
+The system includes a minimal, clean Streamlit interface for real-time testing on any image.
 
 ---
 
