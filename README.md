@@ -27,24 +27,21 @@ The system includes a minimal, clean Streamlit interface** for real-time testing
 
 ## 📌 Project Structure
 VISIONIX-Repo/
-├── scripts/
-│   ├── app_streamlit.py
-│   ├── predict.py
-│   ├── visualize.py
-│   ├── train.py
-│   ├── classes.txt
-│   └── yolo_params.yaml
-│
-├── models/
-│   └── best.pt
-│
-├── demo_images/
-│   ├── 000000002_vdark_clutter.png
-│   ├── 000000003_light_unclutter.png
-│   └── 000000005_dark_clutter.png
-│
-├── README.md
-└── requirements.txt
+scripts/
+ app_streamlit.py
+ predict.py
+visualize.py
+ train.py
+ classes.txt
+yolo_params.yaml
+ models/
+ best.pt
+demo_images/
+ 000000002_vdark_clutter.png
+ 000000003_light_unclutter.png
+ 000000005_dark_clutter.png
+ README.md
+requirements.txt
 ---
 
 ## 🛠️ Installation
