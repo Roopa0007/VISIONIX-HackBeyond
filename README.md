@@ -1,8 +1,6 @@
  📘 README.md — VISIONIX: Safety Equipment Detection for Space Stations
 
- 🚀 VISIONIX — Space Station Safety Equipment Detection
-
-HackBeyond Hackathon 2025 — Final Submission
+ 🚀 HackBeyond Hackathon 2025 — Final Submission
 
 VISIONIX is an advanced object detection system designed to identify critical safety equipment inside space station environments.
 Using YOLOv8, custom-trained on synthetic datasets generated via **Duality AI’s Falcon simulator**, the model accurately detects:
