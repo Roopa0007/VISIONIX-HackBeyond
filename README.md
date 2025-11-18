@@ -1,6 +1,6 @@
  📘 README.md — VISIONIX: Safety Equipment Detection for Space Stations
 
- 🚀 HackBeyond Hackathon 2025 — Final Submission
+ 🚀 Hackathon 2025 — Final Submission
 
 VISIONIX is an advanced object detection system designed to identify critical safety equipment inside space station environments.
 Using YOLOv8, custom-trained on synthetic datasets generated via **Duality AI’s Falcon simulator**, the model accurately detects:
@@ -131,5 +131,5 @@ python scripts/predict.py --img_path demo_images/000000003_light_unclutter.png
 
 ## ❤️ Acknowledgment
 
-This project was built as part of HackBeyond — Space Station Hackathon 2025, using synthetic data from Duality AI Falcon Simulator.
+This project was built as part of  Space Station Hackathon 2025, using synthetic data from Duality AI Falcon Simulator.
 
