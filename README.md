@@ -57,7 +57,7 @@ This launches the UI where you can upload an image and get detection results ins
 * Highest mAP50 achieved on test images
 0.589 (58.9% mAP @ 0.5 IoU)
 
-* Verified using official test dataset provided by HackBeyond.
+* Verified using official test dataset provided.
 
 ---
 
